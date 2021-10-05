@@ -1,0 +1,44 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-position: center;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px gray;
+border-radius: 10px;
+
+}
+
+.button
+{
+    margin: 17px;
+    background-color: rgb(245, 245, 13);
+    box-shadow: 5px 5px 50px gray;
+    font-size: 22;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    border-radius: 15px;
+    border: white;
+    width: 150px;
+}
+
+.but
+{
+margin-top: 20px;
+float: right;
+margin-right: 50px;
+font-size: 18px;
+}
